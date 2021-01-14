@@ -51,3 +51,5 @@ const Search: FC<SearchProps> = ({ title }) => {
     </div>
   );
 };
+
+export default Search;

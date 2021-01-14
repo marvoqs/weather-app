@@ -63,3 +63,5 @@ const Weather: FC<WeatherProps> = ({ data }) => {
     </section>
   );
 };
+
+export default Weather;
