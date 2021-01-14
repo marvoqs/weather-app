@@ -1,4 +1,4 @@
-import React, { FC, useState } from 'react';
+import React, { FC, useState, FormEvent } from 'react';
 import { useDispatch } from 'react-redux';
 
 import { setAlert } from '../store/actions/alertActions';
